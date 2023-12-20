@@ -15,7 +15,7 @@
 
 <details>
  <summary><h2>🚸About Chapter 2: Diving into Elementary Programming 🌐📝</h2>
- <h3><p> <img align="left" width="50%" src="https://www.aplustopper.com/wp-content/uploads/2017/04/Definition-of-a-Relation-and-a-Function-1.png" /></p>
+ <h3><p> <img align="left" width="50%" src="https://miro.medium.com/v2/resize:fit:725/1*o3RrJpcQTLydmxoQa6LpYA.jpeg" /></p>
  </h3></summary>
 Elementary programming is the ABCs of coding. It's the foundation that supports all the fancy tricks you'll learn later. Just like learning to ride a bike, you start with the basics—grasping the syntax, understanding variables, and making your code dance to your tune. It's the phase where you put on your coding training wheels and start pedaling towards a world of endless possibilities! 🚴‍♂️🚀
 
