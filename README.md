@@ -1,7 +1,4 @@
-# pt1_year1
-
-
-# Discrete Structure🥳🥳🥳
+# Programming Technique 1🥳🥳🥳
 
 <header>
  <details>
