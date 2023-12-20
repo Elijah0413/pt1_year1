@@ -25,7 +25,7 @@ Elementary programming is the ABCs of coding. It's the foundation that supports 
 
 <details>
  <summary><h2>🚸About Chapter 3: Navigating the Maze of Control Structures 🚦🔄
-   <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPN_vsFks-WllXxg6IsWWzWMqLQw1GHUQ0w&usqp=CAU" /></p>
+   <p> <img align="left" width="50%" src="https://image.slidesharecdn.com/module-1ch8-control-structures05172017-200228035201/85/control-structure-4-320.jpg?cb=1670174939" /></p>
  </h2></summary>
 Control structures are like traffic signals for your code, directing it down different paths. If-else statements and loops are the traffic cops, ensuring your program flows smoothly. Imagine your code as a maze, and these structures are your trusty map and compass. With them, you can navigate through the twists and turns, avoiding dead ends and reaching your destination—bug-free! 🗺️🚀
 
@@ -37,7 +37,7 @@ Control structures are like traffic signals for your code, directing it down dif
 <details>
 
  <summary><h2>🚸About Chapter 4: Unlocking the Power of Functions 🧩🔓
-    <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQixLSGNbdD69BHRxlzKqpsOlUtpPEu5yQejg&usqp=CAU" /></p>
+    <p> <img align="left" width="50%" src="https://simplesnippets.tech/wp-content/uploads/2018/03/functions-in-c-featured-image-1280x720.jpg" /></p>
  </h2></summary>
 Functions are the superheroes of programming, ready to swoop in and save the day. Picture your code as a blockbuster movie, and functions are the stars with unique superpowers. They encapsulate tasks, making your code modular and easy to understand. It's like assembling a team of Avengers, each function playing a crucial role in defeating the villainous bugs and glitches! 🦸‍♂️💻
 </details>
@@ -46,7 +46,7 @@ Functions are the superheroes of programming, ready to swoop in and save the day
 
 <details>
  <summary><h2>🚸About Chapter 5: Embracing the Harmony of Arrays 🎻🎶
-   <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vL7d100YfyQIfbu4R96Fx3Hf_QVCovXgNg&usqp=CAU" /></p>
+   <p> <img align="left" width="50%" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Vaibhav-Arrays%20Article/Arrays_in_ds-what-is-array-img1.PNG" /></p>
    </h2></summary>
 Arrays are the symphony conductors of programming, orchestrating a beautiful harmony of data. Picture your data as musical notes, and arrays arrange them into a masterpiece. From strings to integers, arrays bring order to the chaos, allowing you to create powerful compositions of information. It's like composing a digital symphony that resonates with precision and elegance! 🎼🤖
  
@@ -55,7 +55,7 @@ Arrays are the symphony conductors of programming, orchestrating a beautiful har
 
 <details>
  <summary><h2>🚸About Chapter 6: The Dance of Input and Output 🕺💬
-   <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vL7d100YfyQIfbu4R96Fx3Hf_QVCovXgNg&usqp=CAU" /></p>
+   <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFC5Vw5xFMu3LElSPyr40zve2Xg5WlqEIWA&usqp=CAU" /></p>
    </h2></summary>
 Input and output operations are the dance partners of your program, performing a seamless tango of communication. Your program asks questions (input), and the user responds; your program then showcases its results (output). It's a rhythmic exchange, a conversation between the coder and the machine. Picture it as a lively dance floor where your code and the user gracefully move in sync! 💃🤖
  
@@ -64,7 +64,7 @@ Input and output operations are the dance partners of your program, performing a
 
 <details>
  <summary><h2>🚸About Chapter 7: Exploring the Universe of Pointers 🌌👉
-   <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vL7d100YfyQIfbu4R96Fx3Hf_QVCovXgNg&usqp=CAU" /></p>
+   <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbhQ6oCeCc6hER1Jpbf2mEO8rObtHtNtVgEQ&usqp=CAU" /></p>
    </h2></summary>
 Pointers are like cosmic GPS devices, guiding your program through the vast universe of memory. They point directly to specific locations, allowing you to manipulate data with surgical precision. It's akin to navigating through a starry night, with each pointer acting as a guiding constellation, helping you avoid cosmic collisions and errors! 🌠🛰️
 
@@ -72,7 +72,7 @@ Pointers are like cosmic GPS devices, guiding your program through the vast univ
 
 <details>
  <summary><h2>🚸About Chapter 8: Crafting Tales with Structured Data 📚🏰
-   <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8vL7d100YfyQIfbu4R96Fx3Hf_QVCovXgNg&usqp=CAU" /></p>
+   <p> <img align="left" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03ge1VwXkWWyIi9AjgBZ3G-KuWfUwXE0l7g&usqp=CAU" /></p>
    </h2></summary>
 Structured data is the storyteller of programming, weaving intricate tales of information. Imagine your data as characters, and structures as the plot, organizing them into epic narratives. With structures, you can create kingdoms of information, each element playing a role in the grand saga of your code. It's like being the author of a digital epic, with structured data as the quill that brings your story to life! ✍️📖
  
