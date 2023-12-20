@@ -4,7 +4,7 @@
 <header>
  <details>
  <summary><h2>🚸About Chapter 1: Introduction to Programming Problem Solving 🧠🖥️</h2>
-  <h3><p> <img align="left" width="50%" src="https://image.slidesharecdn.com/chapter1overviewofprogrammingandproblemsolving-140724103406-phpapp02/85/chapter-1-overview-of-programming-and-problem-solving-1-320.jpg?cb=1666806925" /> </p>
+  <h3><p> <img align="left" width="70%" src="https://image.slidesharecdn.com/chapter1overviewofprogrammingandproblemsolving-140724103406-phpapp02/85/chapter-1-overview-of-programming-and-problem-solving-1-320.jpg?cb=1666806925" /> </p>
  </h3></summary>
 **Chapter 1: Introduction to Programming Problem Solving 🧠🖥️**
 <p>n the vast world of coding, the journey begins with mastering problem-solving skills. Programming is like solving puzzles; each line of code contributes to the bigger picture. Whether you're a newbie or a seasoned coder, understanding the art of breaking down problems into smaller, more manageable pieces is the key to success. Think of it as a thrilling adventure, where your brain is the hero, and every bug you fix is a conquered dragon! 🐉💻</p>
