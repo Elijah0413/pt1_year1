@@ -1,5 +1,5 @@
 # Programming Technique 1🥳🥳🥳
- <summary><h2><img align="left" width="50%" src="https://eportfolio.utm.my/artefact/file/download.php?file=694674&view=174715&time=1698269471"</h2></summary>
+ <summary><h2><img align="left" width="100%" src="https://eportfolio.utm.my/artefact/file/download.php?file=694674&view=174715&time=1698269471"</h2></summary>
 
 <header>
  <details>
