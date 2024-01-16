@@ -83,16 +83,12 @@ Structured data is the storyteller of programming, weaving intricate tales of in
 
 ## Exercises // Assignments
 * Analyse problem and design its solution using a flowchart
-  * <a href="https://github.com/lauyankai/Programming_Technique_I/blob/main/Assignment%201/Asgn1_Page2.png">BMR calculator</a>
-  * <a href="https://github.com/lauyankai/Programming_Technique_I/blob/main/Assignment%201/Asgn1_Page3.png">Car loan calculator</a>
+### BMR calculator
+### Car loan calculator
 
-* Practice on <a href="https://github.com/lauyankai/Programming_Technique_I/tree/main/Exercise">arithmetic operations</a>
 
 * Build the C++ program based on the flowchart created in Assignment 1.
-  * <a href="https://github.com/lauyankai/Programming_Technique_I/blob/main/Exercise/ASGN%202%20-%20Q1.cpp">BMR calculator</a>
-  * <a href="https://github.com/lauyankai/Programming_Technique_I/blob/main/Exercise/ASGN%202%20-%20Q2.cpp">Car loan calculator</a>
+  ### BMR calculator
+ ### Car loan calculator
 
-* Write a <a href="https://github.com/lauyankai/Programming_Technique_I/blob/main/Exercise/Exercise%205.cpp">complete C++ program</a> that helps the Ministry of Health (MOH) to determine the status of a zone by calculating the number of active cases for COVID 19.
 
-## Reflection 
-From the Programming Technique I course, I learned important problem-solving skills using C++. The course covered various programming concepts and tools, such as preprocessor directives, data types, and control structures. I explored functions, arrays, file operations, pointers, and structured data types, improving my ability to create effective solutions for different challenges in computer science.
